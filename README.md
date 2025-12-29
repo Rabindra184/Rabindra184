@@ -151,11 +151,13 @@ const rabindra = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> Achievements & Certifications
+
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rabindra184&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rabindra184&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 
 </div>
 
@@ -213,7 +215,7 @@ const rabindra = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabindra184&repo=dsa-algo-animation&theme=tokyonight&hide_border=true" alt="DSA Algorithm Animation"/>
 </a>
 <a href="https://github.com/Rabindra184/UI-Template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabindra184&repo=UI-Template&theme=tokyonight&hide_border=true" alt="UI Template"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabindra184&repo=UI-Template&theme=tokyonight" alt="UI Template" />
 </a>
 
 ### 🔗 Explore More Projects
@@ -252,7 +254,7 @@ const rabindra = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="🐍" width="35" /> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> Contribution Snake
 
 <div align="center">
 
