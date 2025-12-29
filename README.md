@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Rabindra Biswal
+# 👋 Hey there, I'm Rabindra Biswal
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Senior+Staff+Engineer;Test+Automation+Architect;Quality+Engineering+Leader;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
@@ -11,6 +11,10 @@
   <a href="https://github.com/Rabindra184"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://twitter.com/rabindra_biswal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://medium.com/@rabindrabiswal1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rabindra184&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 </div>
