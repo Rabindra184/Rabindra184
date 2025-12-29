@@ -36,11 +36,23 @@ app.get('/', (req, res) => {
       border-radius: 12px;
       padding: 40px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      animation: fadeIn 0.8s ease-out;
     }
-    a { color: #58a6ff; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.2s; }
-    a:hover { border-bottom-color: #58a6ff; }
-    img { max-width: 100%; height: auto; border-radius: 8px; }
-    h1, h2, h3, h4 { color: #f0f6fc; margin-top: 32px; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    h1, h2, h3, h4 { 
+      color: #f0f6fc; 
+      margin-top: 32px; 
+      border-bottom: 1px solid #30363d; 
+      padding-bottom: 8px;
+      background: linear-gradient(90deg, #58a6ff, #bc8cff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+      width: 100%;
+    }
     hr { border: 0; border-top: 1px solid #30363d; margin: 32px 0; }
     p { margin: 16px 0; }
     .center { text-align: center; }

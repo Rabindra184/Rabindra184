@@ -133,7 +133,35 @@ const rabindra = {
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Rabindra184/dsa-algo-animation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabindra184&repo=dsa-algo-animation&theme=tokyonight&hide_border=true" alt="DSA Algorithm Animation"/>
+</a>
+<a href="https://github.com/Rabindra184/UI-Template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabindra184&repo=UI-Template&theme=tokyonight&hide_border=true" alt="UI Template" />
+</a>
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>Senior Staff Engineer & Test Automation Architect</b></summary>
+<br>
+
+- **Strategic Leadership**: Driving QE transformation across multiple business units.
+- **Architectural Excellence**: Designing scalable, cloud-native automation frameworks.
+- **Innovation**: Implementing AI-driven testing strategies to optimize quality cycles.
+
+</details>
+
+<br>
+
 
 <div align="center">
 
