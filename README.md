@@ -35,7 +35,7 @@
 
 ```typescript
 const rabindra = {
-  role: "Senior Staff Engineer @ Stryker",
+  role: "SDET",
   location: "Bengaluru, India 🇮🇳",
   experience: "12+ years",
   
